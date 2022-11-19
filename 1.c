@@ -1,6 +1,6 @@
 #include<stdio.h>
-void update(int a);
-void update(int a)
+void update(int &a);
+void update(int &a)
 {
     return;
 }
